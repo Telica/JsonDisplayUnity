@@ -1,0 +1,86 @@
+{
+    "Title": "Music Catalog",
+    "ColumnHeaders": [
+        "ID",
+        "Artist",
+        "Album",
+        "Genre",
+        "Release Date",
+        "Type",
+        "Subgenre"
+    ],
+    "Data": [
+        {
+            "ID": "001",
+            "Artist": "Snarky Puppy",
+            "Album": "Culcha Vulcha",
+
+            "Release Date": "2016",
+            "Type": "Full Album",
+            "Subgenre": "Fusion"
+        },
+        {
+            "ID": "002",
+            "Artist": "Snarky Puppy",
+            "Album": "Culcha Vulcha",
+            "Genre": "Jazz",
+            "Release Date": "2016",
+            "Type": "Full Album",
+            "Subgenre": "Fusion"
+        },
+        {
+            "ID": "003",
+            "Artist": "Snarky Puppy",
+            "Album": "Culcha Vulcha",
+            "Genre": "Jazz",
+            "Release Date": "2016",
+            "Type": "Full Album",
+            "Subgenre": "Fusion"
+        },
+        {
+            "ID": "004",
+            "Artist": "Snarky Puppy",
+            "Album": "Culcha Vulcha",
+            "Genre": "Jazz",
+            "Release Date": "2016",
+            "Type": "Full Album",
+            "Subgenre": "Fusion"
+        },
+        {
+            "ID": "005",
+            "Artist": "Snarky Puppy",
+            "Album": "Culcha Vulcha",
+            "Genre": "Jazz",
+            "Release Date": "2016",
+            "Type": "Full Album",
+            "Subgenre": "Fusion"
+        },
+        {
+            "ID": "006",
+            "Artist": "Snarky Puppy",
+            "Album": "Culcha Vulcha",
+            "Genre": "Jazz",
+            "Release Date": "2016",
+            "Type": "Full Album",
+            "Subgenre": "Fusion"
+        },
+        {
+            "ID": "007",
+            "Artist": "Snarky Puppy",
+            "Album": "Culcha Vulcha",
+            "Genre": "Jazz",
+            "Release Date": "2016",
+            "Type": "Full Album",
+            "Subgenre": "Fusion"
+        },
+        {
+            "ID": "008",
+            "Artist": "Snarky Puppy",
+            "Album": "Culcha Vulcha",
+            "Genre": "Jazz",
+            "Release Date": "2016",
+            "Type": "Full Album",
+            "Subgenre": "Fusion"
+        }
+    ]
+}
